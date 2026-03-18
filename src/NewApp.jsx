@@ -69,7 +69,7 @@ const NewApp = () => {
             id="hero-name"
             className="fade-in-up fade-in-up-2 text-5xl md:text-7xl font-bold mb-6 leading-tight"
           >
-            <span className="gradient-text-primary">Ajithkumar K</span>
+            <span className="gradient-text-primary">Ajithkumar Kasi</span>
           </h1>
 
           <p
