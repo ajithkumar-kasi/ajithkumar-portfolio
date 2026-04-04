@@ -524,7 +524,7 @@ const NewApp = () => {
           <div className="flex items-center justify-center gap-6">
             <a
               id="github-link"
-              href="https://github.com/ajithkumar"
+              href="https://github.com/ajithkumar-kasi"
               target="_blank"
               rel="noopener noreferrer"
               className="glass-hover glass w-14 h-14 rounded-xl flex items-center justify-center transition-all"
@@ -568,7 +568,7 @@ const NewApp = () => {
       >
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-xs" style={{ color: "#404858" }}>
-            © 2024 Ajithkumar K. Built with precision and passion.
+            © 2026 Ajithkumar K. Built with precision and passion.
           </p>
         </div>
       </footer>
